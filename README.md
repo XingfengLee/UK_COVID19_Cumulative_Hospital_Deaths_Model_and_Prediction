@@ -1,0 +1,2 @@
+# UK_COVID19_Cumulative_Hospital_Deaths_Model_and_Prediction
+regression method to model and predict UK cumulative hospital death
